@@ -1,0 +1,10 @@
+
+# Kubernetes credentials and secrets
+kubeconfig
+*.kubeconfig
+.env
+.env.*
+!.env.example
+
+# Local files
+*.log
